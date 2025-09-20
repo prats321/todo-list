@@ -26,27 +26,9 @@ A **React.js Todo List App** demonstrating use of **hooks, state, props**, and *
 
 ---
 
-## 📂 Project Structure
-
-📦 todo-list
-┣ 📂 src
-┃ ┣ 📂 Mycomponents
-┃ ┃ ┣ 📜 Header.jsx
-┃ ┃ ┣ 📜 Footer.jsx
-┃ ┃ ┣ 📜 Todos.jsx
-┃ ┃ ┣ 📜 TodoItem.jsx
-┃ ┃ ┣ 📜 AddTodo.jsx
-┃ ┃ ┗ 📜 About.jsx
-┃ ┣ 📜 App.jsx
-┃ ┣ 📜 App.css
-┃ ┗ 📜 main.jsx
-┣ 📜 package.json
-┣ 📜 README.md
-┗ 📜 vite.config.js / (or CRA config files)
-
 🌟 Future Enhancements
 ✅ Mark todos as completed
 🌓 Add dark mode toggle
 🔔 Add due dates & reminders
-☁️ Connect with backend / database
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
